@@ -1,0 +1,1 @@
+----- Explique a seguinte afirmação: "Um Modelo deve refletir o seu aspecto temporal". -----

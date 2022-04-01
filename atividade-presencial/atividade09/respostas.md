@@ -1,0 +1,1 @@
+----- Defina uma Tabela e exemplifique o uso de comando SQL que executam operações CRUD. -----
