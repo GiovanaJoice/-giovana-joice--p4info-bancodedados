@@ -2,3 +2,8 @@
 
 Pede-se:
 a) Demonstre uma Entidade Associativa e descreva seus atributos.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/89097348/161443672-27b4b95c-f478-49ce-bb1c-8e5f61f27f88.png" width="700px" />
+</div>
+![imagem_2022-04-03_155811](https://user-images.githubusercontent.com/89097348/161443672-27b4b95c-f478-49ce-bb1c-8e5f61f27f88.png)
