@@ -11,11 +11,11 @@ b) Explique um exemplo de uma cardinalidade 1:1;
     CLIENTE É uma PESSOA. (Obrigatório)
 
 c) Explique um exemplo de uma cardinalidade 1:n;
-    Ex: PRODUTO possui nenhum ou muitas modalidade de produto  
+    Ex: PRODUTO possui nenhum ou muitas modalidade de produto.  
         MODALIDADE DE PRODUTO pertence a um produto.  
     No relacionamento Um para Um temos o lado opcional e o lado obrigatório. A chave primária se desloca em direção ao lado opcional. No exemplo, o descolamento seria da entidade CLIENTE para a entidade PESSOA.
 
 d) Explique um exemplo de uma cardinalidade n:n.
-    Ex: CLIENTE celebra um ou vários Contratos  
-        CONTRATO é celebrado por um ou vários clientes  
+    Ex: CLIENTE celebra um ou vários Contratos.  
+        CONTRATO é celebrado por um ou vários clientes. 
     A cardinalidade N para N leva para o modelo lógico a necessidade de definição de mais um entidade. Chamamos isto de ASSOCIATIVA.
