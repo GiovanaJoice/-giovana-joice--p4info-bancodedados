@@ -30,6 +30,7 @@
         Deve-se sempre procurar pelo nome adequado, pois esse irá aumentar a clareza do modelo de dados.
 
     g) Cardinalidade de um Atributo.
-        A cardinalidade indica quantas ocorrências de entidade podem estar associadas através de um relacionamento. Há duas cardinalidades:
-        máxima e mínima. Considera-se apenas duas cardinalidades mínimas, a opcional e a obrigatória. Dois valores de cardinalidades máximas
-        são usados: cardinalidade máxima 1 e cardinalidade máxima “muitos”, referida pela letra “m”.
+        A cardinalidade indica quantas ocorrências de entidade podem estar associadas através de um relacionamento. Há duas 
+        cardinalidades: máxima e mínima. Considera-se apenas duas cardinalidades mínimas, a opcional e a obrigatória. Dois
+        valores de cardinalidades máximas são usados: cardinalidade máxima 1 e cardinalidade máxima “muitos”, referida pela
+        letra “m”.
