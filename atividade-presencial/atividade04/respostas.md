@@ -3,7 +3,7 @@
     a) Entidade;
       O termo entidade normalmente é usado na área de banco de dados para indicar qualquer objeto distinguível que
       deva ser representado no banco de dados. Uma entidade pode representar tanto objetos concretos( um pessoa,
-      um automóvel,...) como objetos abstratos (um departamento, um endereço,...), elas são representadas por tabelas..
+      um automóvel,...) como objetos abstratos (um departamento, um endereço,...), elas são representadas por tabelas.
 
     b) Relacionamento;
         Um relacionamento pode ser considerado uma entidade em si. Se tomarmos como nossa definição de entidade “qualquer
