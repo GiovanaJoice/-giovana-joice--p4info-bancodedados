@@ -8,7 +8,9 @@
         - Cardinalidade Máxima - define a quantidade máxima de ocorrências da Entidade que pode participar do Relacionamento.
         Na cardinalidades Mínima temos o número máximo de vezes que uma entidade A pode ocorrer em B, ele pode assumir o valor
         de 1 ou N (inúmeras vezes).  
-            Ex: Temos a entidade País e a Entidade UF novamente. País possui no máximo Várias (mais de uma) UF.Juntando as duas cardinalidade temos o modelo lógico: País pertence no mínimo a ZERO UF e no máximo a VÁRIOS UF, UF pertence no máximo e no mínimo a UM País.  
+            Ex: Temos a entidade País e a Entidade UF novamente. País possui no máximo Várias (mais de uma) UF. Juntando as duas
+            cardinalidade temos o modelo lógico: País pertence no mínimo a ZERO UF e no máximo a VÁRIOS UF, UF pertence no máximo
+            e no mínimo a UM País.  
 
     b) Explique um exemplo de uma cardinalidade 1:1;  
         Ex: PESSOA pode ser no mínimo um CLIENTE. (Opcional)  
