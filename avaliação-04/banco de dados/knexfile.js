@@ -8,6 +8,7 @@ module.exports = {
     connection: {
       filename: path.join(__dirname, 'db.sqlite3')
     },
+// colocar o caminho para o banco de dados no filename
     migrations: {
       tableName: 'knex_migrations'
     },
