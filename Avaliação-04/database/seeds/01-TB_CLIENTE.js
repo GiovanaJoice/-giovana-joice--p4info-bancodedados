@@ -18,9 +18,9 @@
       .then(function () {
         // Inserts seed entries
         return knex('TB_CLIENTE').insert([
-          {id: 1, codigo: '605', cnpjcpf: 'euuuu', nome: "joao", TipoCliente: "Pessoa_Fisica"},
-          {id: 2, codigo: '407', cnpjcpf: '0490', nome: "rodrigo", TipoCliente: "Pessoa_Fisica"},
-          {id: 3, codigo: '012', cnpjcpf: '6053', nome: "Lya", TipoCliente: "Pessoa_Fisica"},
+          {id: 1, codigo: '10', cnpjcpf: '965.760.453-28', nome: "Alexia", TipoCliente: "Pessoa_Fisica"},
+          {id: 2, codigo: '20', cnpjcpf: '514.734.203-69', nome: "Frederico", TipoCliente: "Pessoa_Fisica"},
+          {id: 3, codigo: '30', cnpjcpf: '35.892.243/0001-66', nome: "Nelson", TipoCliente: "Pessoa_Juridica"},
         ]);
       });
   };

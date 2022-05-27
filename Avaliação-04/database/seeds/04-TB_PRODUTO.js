@@ -6,8 +6,8 @@ exports.seed = async function(knex) {
   // Deletes ALL existing entries
   await knex('TB_PRODUTO').del()
   await knex('TB_PRODUTO').insert([
-    {id: 1, codigo: '011', descricao: "Circular 1", valor: 1.80},
-    {id: 2, codigo: '605', descricao: "BR AV.I", valor: 100000},
-    {id: 3, codigo: '855', descricao: "SALINAS", valor: 500},
+    {id: 1111, codigo: '534', descricao: "Arroz", valor: 8.50},
+    {id: 2222, codigo: '758', descricao: "Feijão", valor: 10},
+    {id: 3333, codigo: '828', descricao: "Biscoito", valor: 7.80},
   ]);
 };
